@@ -5,6 +5,7 @@ namespace PartsUnlimited.Models
 
     public class CommunityPost
     {
+        //Comments 2 testing
         public string Image { get; set; }
         public string Content { get; set; }
         public DateTime DatePosted { get; set; }
